@@ -52,21 +52,21 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'STAR-MD-V2'
+global.botname = '🦋_❣️Aɳʝαɳ❣️_🦋'
 global.premium = 'true'
-global.packname = 'STAR-MD' 
-global.author = '@Excel' 
+global.packname = '🦋_❣️Aɳʝαɳ❣️_🦋' 
+global.author = '🦋_❣️Aɳʝαɳ❣️_🦋' 
 global.menuvid = 'https://i.imgur.com/BPqmxsm.mp4'
-global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
-global.dygp='▢✓ Follow My channel\nhttps://chat.whatsapp.com/Lg0lY4M1k8oDMYzylg86xs\n'
-global.fgsc = 'https://github.com/Xcelsama/STAR-MD-V2' 
-global.fgyt = 'https://chat.whatsapp.com/EmP3syvou18HrZk6R6nTAK'
-global.fgpyp = 'https://chat.whatsapp.com/EmP3syvou18HrZk6R6nTAK'
+global.igfg = '' 
+global.dygp=''
+global.fgsc = 'https://github.com/anjan-md/STAR' 
+global.fgyt = ''
+global.fgpyp = ''
 global.fglog = 'STAR.jpg' 
 global.thumb = fs.readFileSync('./STAR.jpg')
 
 
-global.wait = '*🕣 _STAR IS LOADING..._*\n*▰▰▰▱▱▱▱▱⭐*'
+global.wait = '*🕣 _Anjan-Md IS LOADING..._*\n*▰▰▰▱▱▱▱▱⭐*'
 global.rwait = '🔜'
 global.dmoji = '⚡'
 global.done = '☑️'
